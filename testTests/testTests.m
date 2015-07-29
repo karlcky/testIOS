@@ -3,7 +3,7 @@
 //  testTests
 //
 //  Created by Karl Chung on 5/9/11.
-//  Copyright 2011 HKUST. All rights reserved.
+//  Copyright 2011 . All rights reserved.
 //
 
 #import "testTests.h"
